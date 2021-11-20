@@ -20,3 +20,8 @@ To deploy this project run
 - Increase the Counter
 - Fullscreen Mode
 
+
+## Screenshots
+
+![Counter-image](https://user-images.githubusercontent.com/88069541/142715526-e7d51e56-f453-4f11-aec6-7d70236b4ff2.PNG)
+)
